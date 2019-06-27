@@ -1,0 +1,32 @@
+a_punch				=	$01			; Buttons for controller
+b_punch				=	$02			;
+select_punch		=	$04			;
+start_punch			=	$08			;
+up_punch			=	$10			;
+down_punch			=	$20			;
+left_punch			=	$40			;
+right_punch			=	$80			;
+
+sprite0				=	$200		; All sprites
+snail_head			=	$204		;
+snail				=	$208		;
+goal_flag1			=	$20c		;
+goal_flag2			=	$210		;
+goal_flag3			=	$214		;
+goal_flag4			=	$218		;
+goal_flag5			=	$21c		;
+start_s				=	$220		;
+goal_g				=	$224		;
+round_first			=	$228		;
+round_second		=	$22c		;
+time_first			=	$230		;
+time_second			=	$234		;
+letter_t			=	$238		;
+letter_i			=	$23c		;
+letter_m			=	$240		;
+letter_e			=	$244		;
+letter_blank		=	$248		;
+letter_u			=	$24c		;
+letter_p			=	$250		;
+
+pal_address			=	$400		; Where the palette is stored in RAM
